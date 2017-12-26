@@ -56,4 +56,10 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 # Active Admin
 gem 'inherited_resources', git: 'https://github.com/activeadmin/inherited_resources'
 gem 'activeadmin', git: 'https://github.com/activeadmin/activeadmin'
+gem 'active_admin_editor'
 gem 'devise'
+
+# Stripe for payment
+gem 'stripe-rails'
+
+gem 'font-awesome-rails'
